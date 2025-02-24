@@ -1,0 +1,16 @@
+
+.description {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .description h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .description p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+  

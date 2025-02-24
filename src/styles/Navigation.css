@@ -1,0 +1,19 @@
+.navigation {
+    padding: 1rem;
+    background-color: #242424;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .navigation a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+  }
+  
+  .navigation a:hover {
+    background-color: #646cff;
+  }
+  
